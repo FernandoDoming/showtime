@@ -1,0 +1,8 @@
+---
+- !com.fernandodoming.fetch.models.Subscription
+  title: 'True Detective'
+  link: 'http://kat.cr/true-detective-tv31369/'
+- !com.fernandodoming.fetch.models.Subscription
+  title: 'Mr Robot'
+  link: 'http://kat.cr/mr-robot-tv42422/'
+

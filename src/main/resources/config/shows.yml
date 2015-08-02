@@ -1,0 +1,149 @@
+---
+- title: True Detective
+  link: http://kat.cr/true-detective-tv31369/
+  seasons:
+  - title: Season 01
+    episodes:
+    - id: '299293183'
+      title: The Long Bright Dark
+      link: "/true-detective-s01e01-hdtv-x264-killers-ettv-t8553226.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/true-detective-s01e01-hdtv-x264-killers-ettv-t8553226.html"
+        magnet: magnet:?xt=urn:btih:AAFEBAC6E628AA9BC904F5378CDDCB79026FCB8D&dn=true+detective+s01e01+hdtv+x264+killers+ettv&tr=http%3A%2F%2Ftracker.nwps.ws%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+      downloaded: true
+    - id: '299293184'
+      title: Seeing Things
+      link: "/true-detective-s01e02-hdtv-x264-2hd-ettv-t8610480.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/true-detective-s01e02-hdtv-x264-2hd-ettv-t8610480.html"
+        magnet: magnet:?xt=urn:btih:CCB7608F0E5A1038FC8D2A951CB6745317789ACF&dn=true+detective+s01e02+hdtv+x264+2hd+ettv&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce
+      downloaded: true
+    - id: '299293185'
+      title: The Locked Room
+      link: "/true-detective-s01e03-hdtv-x264-killers-eztv-t8673695.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/true-detective-s01e03-hdtv-x264-killers-eztv-t8673695.html"
+        magnet: magnet:?xt=urn:btih:5A26C26226B69DA98579E5A2ACDE0239F12521E1&dn=true+detective+s01e03+hdtv+x264+killers+eztv&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+      downloaded: true
+    - id: '299293186'
+      title: Who Goes There
+      link: "/true-detective-s01e04-hdtv-x264-2hd-ettv-t8755411.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/true-detective-s01e04-hdtv-x264-2hd-ettv-t8755411.html"
+        magnet: magnet:?xt=urn:btih:F8A2AA50ED45664C3EADA3CAEDF96EC9C5F6A17A&dn=true+detective+s01e04+hdtv+x264+2hd+ettv&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+      downloaded: true
+    - id: '299293187'
+      title: The Secret Fate of All Life
+      link: "/true-detective-s01e05-hdtv-x264-killers-ettv-t8780526.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/true-detective-s01e05-hdtv-x264-killers-ettv-t8780526.html"
+        magnet: magnet:?xt=urn:btih:05076833CDFD0E3AFDE675148082E3BECF677CB9&dn=true+detective+s01e05+hdtv+x264+killers+ettv&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+      downloaded: true
+    - id: '299293188'
+      title: Haunted Houses
+      link: "/true-detective-s01e06-hdtv-x264-2hd-ettv-t8805493.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/true-detective-s01e06-hdtv-x264-2hd-ettv-t8805493.html"
+        magnet: magnet:?xt=urn:btih:7211426C34F38EF6DC93B62545F8F23F159071F9&dn=true+detective+s01e06+hdtv+x264+2hd+ettv&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+      downloaded: true
+    - id: '299293189'
+      title: After You've Gone
+      link: "/true-detective-s01e07-hdtv-x264-killers-ettv-t8831664.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/true-detective-s01e07-hdtv-x264-killers-ettv-t8831664.html"
+        magnet: magnet:?xt=urn:btih:1BA5FD2C9BC59BF7EA60CC9343B17F93A701C660&dn=true+detective+s01e07+hdtv+x264+killers+ettv&tr=http%3A%2F%2Ftracker.nwps.ws%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+      downloaded: true
+    - id: '299293190'
+      title: Form and Void
+      link: "/true-detective-s01e08-hdtv-x264-2hd-ettv-t8860081.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/true-detective-s01e08-hdtv-x264-2hd-ettv-t8860081.html"
+        magnet: magnet:?xt=urn:btih:A94D84388856DC6186A2081E6619DE17FF57E6F7&dn=true+detective+s01e08+hdtv+x264+2hd+ettv&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+      downloaded: true
+  - title: Season 02
+    episodes:
+    - id: '422798970'
+      title: The Western Book of the Dead
+      link: "/true-detective-s02e01-hdtv-x264-killers-ettv-t10829929.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/true-detective-s02e01-hdtv-x264-killers-ettv-t10829929.html"
+        magnet: magnet:?xt=urn:btih:E4A2B706FD8882794806D37A9F97D7BB68E70BD8&dn=true+detective+s02e01+hdtv+x264+killers+ettv&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+      downloaded: true
+    - id: '429749042'
+      title: Night Finds You
+      link: "/true-detective-s02e02-hdtv-x264-asap-ettv-t10861177.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/true-detective-s02e02-hdtv-x264-asap-ettv-t10861177.html"
+        magnet: magnet:?xt=urn:btih:022A86CC2BE154856AB5E56EF25758975DDB1FD5&dn=true+detective+s02e02+hdtv+x264+asap+ettv&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+      downloaded: true
+    - id: '429749043'
+      title: Maybe Tomorrow
+      link: "/true-detective-s02e03-hdtv-x264-asap-ettv-t10895644.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/true-detective-s02e03-hdtv-x264-asap-ettv-t10895644.html"
+        magnet: magnet:?xt=urn:btih:64459492278B20439EE90AA815FB2DF31E54051A&dn=true+detective+s02e03+hdtv+x264+asap+ettv&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+      downloaded: true
+    - id: '430809674'
+      title: Down Will Come
+      link: "/true-detective-s02e04-hdtv-x264-asap-ettv-t10930311.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/true-detective-s02e04-hdtv-x264-asap-ettv-t10930311.html"
+        magnet: magnet:?xt=urn:btih:582E0B49E65FFAD71B1285B8F21DA8DF57866435&dn=true+detective+s02e04+hdtv+x264+asap+ettv&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+      downloaded: true
+    - id: '430809675'
+      title: Other Lives
+      link: "/true-detective-s02e05-hdtv-x264-asap-ettv-t10964988.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/true-detective-s02e05-hdtv-x264-asap-ettv-t10964988.html"
+        magnet: magnet:?xt=urn:btih:A2CB05F1A6DA23FF373708E76433D88F84178D15&dn=true+detective+s02e05+hdtv+x264+asap+ettv&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+      downloaded: true
+    - id: '430809676'
+      title: Church in Ruins
+      link: 
+      torrent: 
+      downloaded: 
+- title: Mr. Robot
+  link: http://kat.cr/mr-robot-tv42422/
+  seasons:
+  - title: Season 01
+    episodes:
+    - id: '424229056'
+      title: eps1.0_hellofriend.mov
+      link: "/mr-robot-s01e01-hdtv-x264-proper-lol-ettv-t10708949.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/mr-robot-s01e01-hdtv-x264-proper-lol-ettv-t10708949.html"
+        magnet: magnet:?xt=urn:btih:047FF81821554C169AB769A2730AEDDDB4465F34&dn=mr+robot+s01e01+hdtv+x264+proper+lol+ettv&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce
+      downloaded: true
+    - id: '429925904'
+      title: eps1.1_ones-and-zer0es.mpeg
+      link: "/mr-robot-s01e02-hdtv-x264-killers-ettv-t10876004.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/mr-robot-s01e02-hdtv-x264-killers-ettv-t10876004.html"
+        magnet: magnet:?xt=urn:btih:E5FFC2BFD35C007849296A3FA19687CAB17C4985&dn=mr+robot+s01e02+hdtv+x264+killers+ettv&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+      downloaded: true
+    - id: '429925905'
+      title: eps1.2_d3bug.mkv
+      link: "/mr-robot-s01e03-720p-hdtv-x264-immerse-rartv-t10910673.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/mr-robot-s01e03-720p-hdtv-x264-immerse-rartv-t10910673.html"
+        magnet: magnet:?xt=urn:btih:043CC5FA0C741CDAD9D2E5CC20DF64A4A400FA34&dn=mr+robot+s01e03+720p+hdtv+x264+immerse+rartv&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce
+      downloaded: true
+    - id: '429925906'
+      title: eps1.3_da3m0ns.mp4
+      link: "/mr-robot-s01e04-hdtv-x264-killers-ettv-t10945245.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/mr-robot-s01e04-hdtv-x264-killers-ettv-t10945245.html"
+        magnet: magnet:?xt=urn:btih:097AA60280AE3E4BA8741192CB015EE06BD9F992&dn=mr+robot+s01e04+hdtv+x264+killers+ettv&tr=http%3A%2F%2Ftorrent.gresille.org%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+      downloaded: true
+    - id: '429925907'
+      title: eps1.4_3xpl0its.wmv
+      link: "/mr-robot-s01e05-hdtv-x264-killers-ettv-t10980711.html"
+      torrent: !ruby/object:Kat::Torrent
+        page: "/mr-robot-s01e05-hdtv-x264-killers-ettv-t10980711.html"
+        magnet: magnet:?xt=urn:btih:898810E6585D1C76117BAD60603E7300BFE1187F&dn=mr+robot+s01e05+hdtv+x264+killers+ettv&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337
+      downloaded: true
+    - id: '429925908'
+      title: eps1.5_br4ve-trave1er.asf
+      link: 
+      torrent: 
+      downloaded: 
